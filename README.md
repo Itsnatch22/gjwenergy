@@ -42,10 +42,10 @@ Configure these environment variables before enabling email delivery:
 ```env
 RESEND_API_KEY=re_xxxxxxxxx
 CONTACT_EMAIL_FROM=GJW Energy <hello@your-verified-domain.com>
-CONTACT_EMAIL_TO=info@gjwenergy.co.ke
 ```
 
 `CONTACT_EMAIL_FROM` must use a domain verified in Resend. The visitor's email is assigned as `replyTo` so the team can respond directly from the notification.
+Contact form submissions are delivered to `locogeff70@gmail.com`.
 
 ## Technology
 

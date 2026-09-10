@@ -23,9 +23,9 @@ const contactSchema = z.object({
 export async function POST(request: NextRequest) {
   const apiKey = process.env.RESEND_API_KEY;
   const from = process.env.CONTACT_EMAIL_FROM;
-  const to = process.env.CONTACT_EMAIL_TO;
+  const to = "locogeff70@gmail.com";
 
-  if (!apiKey || !from || !to) {
+  if (!apiKey || !from) {
     return NextResponse.json({ detail: "Contact email delivery is not configured." }, { status: 503 });
   }
 
