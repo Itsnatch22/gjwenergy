@@ -67,12 +67,12 @@ export default function Footer() {
               <ul className="mt-5 space-y-3 text-sm">
                 <li>
                   <a
-                    href="mailto:info@gjwenergy.co.ke"
+                    href="mailto:info@gjwenergy.com"
                     data-testid="footer-email"
                     className="flex items-center gap-2.5 text-white/60 transition-colors duration-300 hover:text-ochre"
                   >
                     <Mail className="h-3.5 w-3.5 shrink-0 text-ochre" />
-                    info@gjwenergy.co.ke
+                    info@gjwenergy.com
                   </a>
                 </li>
                 <li>

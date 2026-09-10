@@ -18,7 +18,7 @@ import {
 } from "@/components/ui/select";
 
 const CONTACT_INFO = [
-  { label: "Email", value: "info@gjwenergy.co.ke", href: "mailto:info@gjwenergy.co.ke", icon: Mail, testId: "contact-email-info" },
+  { label: "Email", value: "info@gjwenergy.com", href: "mailto:info@gjwenergy.com", icon: Mail, testId: "contact-email-info" },
   { label: "Phone", value: "+254 722 660 630", href: "tel:+254722660630", icon: Phone, testId: "contact-phone-info" },
   { label: "Office", value: "Ngong, Kajiado County, Kenya", icon: MapPin, testId: "contact-office-info" },
   { label: "Mandate", value: "Kenya & the wider East African region", icon: Globe2, testId: "contact-mandate-info" },

@@ -136,7 +136,7 @@ public/images/
 
 ## Company contact
 
-- Email: [info@gjwenergy.co.ke](mailto:info@gjwenergy.co.ke)
+- Email: [gjwenergy.co.ke](mailto:info@gjwenergy.com)
 - Phone: [+254 722 660 630](tel:+254722660630)
 - Office: Ngong, Kajiado County, Kenya
 - Coverage: Kenya and the wider East African region
