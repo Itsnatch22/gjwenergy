@@ -65,7 +65,7 @@ export default function Footer() {
             <div>
               <p className="font-mono text-[11px] uppercase tracking-[0.25em] text-white/40">Contact</p>
               <ul className="mt-5 space-y-3 text-sm">
-                <li>
+                {/**<li>
                   <a
                     href="mailto:info@gjwenergy.com"
                     data-testid="footer-email"
@@ -74,7 +74,7 @@ export default function Footer() {
                     <Mail className="h-3.5 w-3.5 shrink-0 text-ochre" />
                     info@gjwenergy.com
                   </a>
-                </li>
+                </li>**/}
                 <li>
                   <a
                     href="tel:+254722660630"
